@@ -1,7 +1,8 @@
-body {
-    margin: 0;
+.body-nav {
+    margin: 0vh;
     font-family: Arial, sans-serif;
-    padding-top: 60px; /* Adicionando um padding no body para evitar que o conteúdo seja sobreposto pela barra de navegação */
+    padding-top: 20px; /* Adicionando um padding no body para evitar que o conteúdo seja sobreposto pela barra de navegação */
+    
   }
 
   nav {
